@@ -14,7 +14,7 @@ sleep 1 &&
 
 x-terminal-emulator -e roslaunch ommp_navigation gmapping.launch 2>/dev/null &&
 
-sleep 3 &&
+slefep 3 &&
 
 x-terminal-emulator -e roslaunch ommp_navigation move_base.launch 2>/dev/null &&
 
