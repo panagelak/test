@@ -10,7 +10,7 @@ x-terminal-emulator -e roslaunch ommp_moveit_interface moveit.launch 2>/dev/null
 
 sleep 2 &&
 
-x-terminal-emulator -e rosrun ommp_moveit_interface set_start_pos.py 2>/dev/null &&
+x-termifnal-emulator -e rosrun ommp_moveit_interface set_start_pos.py 2>/dev/null &&
 
 sleep 1 &&
 

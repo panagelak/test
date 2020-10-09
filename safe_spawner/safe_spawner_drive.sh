@@ -14,7 +14,7 @@ sleep 1 &&
 MODI MAIN
 
 
-fs
+fsf
 
 sf
 sfsf

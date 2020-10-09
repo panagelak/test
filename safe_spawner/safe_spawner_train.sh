@@ -2,7 +2,7 @@
 #! /bin/bash
 
 
-x-terminal-emulator -e roslaunch sensor_stick training.launch 2>/dev/null &&
+x-terminal-emulgggator -e roslaunch sensor_stick training.launch 2>/dev/null &&
 
 sleep 10 &&
 
