@@ -2,7 +2,7 @@
 #! /bin/bash
 
 
-x-terminal-mdd -e roslaunch ommp_bringup sim_bringup.launch world:=simple 2>/dev/null &&
+x-terminal-mdd -e ttt ommp_bringup sim_bringup.launch world:=simple 2>/dev/null &&
 
 sleep 8 &&
 

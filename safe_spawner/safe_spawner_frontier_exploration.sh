@@ -4,7 +4,7 @@ x-terminal-emulator -e roslaunch ommp_bringup sim_bringup.launch world:=simple h
 
 sleep 8 &&
 
-x-terminal-emulator -e roslaunch ommp_moveit_interface moveit.launch 2>/dev/null &&
+x-terminal-emulator -e ttt ommp_moveit_interface moveit.launch 2>/dev/null &&
 
 sleep 3 &&
 
