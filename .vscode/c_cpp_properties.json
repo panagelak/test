@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/makemelive/workspaces/comau_ws/devel/include/**",
+        "/home/makemelive/workspaces/sofocles_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/makemelive/workspaces/comau_ws/src/comau_experimental/comau_action_handlers/include/**",
+        "/home/makemelive/workspaces/comau_ws/src/comau_demo/include/**",
+        "/home/makemelive/workspaces/comau_ws/src/comau_experimental/comau_driver/include/**",
+        "/home/makemelive/workspaces/comau_ws/src/comau_experimental/comau_moveit_interface/include/**",
+        "/home/makemelive/workspaces/comau_ws/src/comau_experimental/comau_tcp_interface/include/**",
+        "/home/makemelive/workspaces/sofocles_ws/src/sofocles_experimental/gazebo-pkgs/gazebo_ros_link_attacher/include/**",
+        "/home/makemelive/workspaces/sofocles_ws/src/sofocles_experimental/aura_manual_guidance/moveit_jog_arm/include/**",
+        "/home/makemelive/workspaces/sofocles_ws/src/sofocles_experimental/safety_zones/include/**",
+        "/home/makemelive/workspaces/sofocles_ws/src/sofocles_experimental/sofocles_moveit_interface/include/**",
+        "/home/makemelive/workspaces/sofocles_ws/src/sofocles_experimental/sofocles_sim/include/**",
+        "/home/makemelive/workspaces/sofocles_ws/src/sofocles_experimental/station_handlers/include/**",
+        "/home/makemelive/workspaces/sofocles_ws/src/sofocles_experimental/station_test_clients/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
