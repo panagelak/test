@@ -6,7 +6,7 @@ x-terminal-emulator -e roslaunch ommp_bringup sim_bringup.launch world:=jackal_r
 
 sleep 8 &&
 
-THIS LINE I CHANGED IN MAIN BRANCH
+THIS LINE I MERGED
 
 sleep 2 &&
 
@@ -18,7 +18,7 @@ x-terminal-emulator -e rostopic pub -1 /kinect_controller/command std_msgs/Float
 
 sleep 1 &&
 
-THIS LINE I CHANGED IN MAIN BRANCH
+THIS LINE I MERGED
 
 sleep 6 &&
 
