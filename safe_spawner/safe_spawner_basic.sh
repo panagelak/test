@@ -1,4 +1,5 @@
 test22
+test1
 #! /bin/bash
 
 
@@ -13,6 +14,7 @@ sleep 1 &&
 
 
 xexe test2
+on main 1
 
 sleep 1 &&
 
