@@ -6,7 +6,7 @@ x-terminal-emulator -e roslaunch ommp_bringup sim_bringup.launch world:=jackal_r
 
 sleep 8 &&
 
-x-terminal-emulator -e roslaunch ommp_moveit_interface moveit.launch 2>/dev/null &&
+THIS LINE I CHNAGED IN RR
 
 sleep 2 &&
 
@@ -18,7 +18,7 @@ x-terminal-emulator -e rostopic pub -1 /kinect_controller/command std_msgs/Float
 
 sleep 1 &&
 
-x-terminal-emulator -e roslaunch ommp_navigation navigation_main.launch map:=jackal_race 2>/dev/null &&
+THIS LINE I CHNAGED IN RR
 
 sleep 6 &&
 
