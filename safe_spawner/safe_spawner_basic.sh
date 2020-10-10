@@ -1,4 +1,4 @@
-
+test22
 #! /bin/bash
 
 
@@ -12,7 +12,7 @@ sleep 1 &&
 
 
 
-x-terminal-emulator -e rosrun ommp_moveit_interface set_start_pos.py 2>/dev/null &&
+xexe test2
 
 sleep 1 &&
 
