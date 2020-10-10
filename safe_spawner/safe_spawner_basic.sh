@@ -12,7 +12,7 @@ sleep 1 &&
 
 
 
-x-terminal-emulator -e rosrun ommp_moveit_interface set_start_pos.py 2>/dev/null &&
+on main 1
 
 sleep 1 &&
 
